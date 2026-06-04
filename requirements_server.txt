@@ -1,0 +1,11 @@
+tree_sitter>=0.21.0
+tree_sitter_python>=0.20.0
+tree_sitter_java>=0.20.0
+tree_sitter_c>=0.20.0
+tree_sitter_cpp>=0.20.0
+tree_sitter_c_sharp>=0.20.0
+torch>=2.1.0
+numpy>=1.24.0
+requests>=2.31.0
+matplotlib>=3.7.0
+tqdm>=4.66.0
